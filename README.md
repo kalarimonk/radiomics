@@ -1,5 +1,3 @@
-README.txt
-
 # About the files
 
 1. Biomarkers_Homework_Notebook.ipynb is the Jupyter notebook containing the code for the feature selection and the classification.
