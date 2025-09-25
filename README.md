@@ -32,4 +32,5 @@ Set of Libraries used: pandas, numpy, sklearn, scipy, statsmodels, matplotlib, s
 
 Authors: Andrea Bertola, Prateek Gupta, Nadine La Salvia, Mariasole Pasinato
 
-## Please refer [Radiomics as Biomarkers in Parkinson's Disease][https://github.com/kalarimonk/radiomics/blob/main/Biomarkers_Homework_Bertola_Gupta_LaSalvia_Pasinato.pdf] for a detailed technical report and view our findings
+## Please refer [Radiomics as Biomarkers in Parkinson's Disease](https://github.com/kalarimonk/radiomics/blob/main/Biomarkers_Homework_Bertola_Gupta_LaSalvia_Pasinato.pdf) for a detailed technical report and view our findings
+
